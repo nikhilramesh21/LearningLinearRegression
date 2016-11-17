@@ -6,8 +6,8 @@
 # Current Version 2.0 
 #Date: 11/16/2016 
 
-First real program using linear regression in R 
-Predicting the Sales using various given factors using multiple linear regression. 
-Descriptive statistics were run in command line this is only the method to build the model and predict the sales; 
+First Linear Regression Experiment 
+Predicting the Sales from various given factors using multiple linear regression. 
+Descriptive statistics were run in command line this is only the method to build the model and predict the sales. 
  
  
